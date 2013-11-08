@@ -1,7 +1,7 @@
 taco-tweeter
 ============
 
-A WebHook for Tacofancy – this tweets to @taco_fancy when a new file is added to the repo.
+A WebHook for [Tacofancy](http://github.com/sinker/tacofancy/) – this tweets to @taco_fancy when a new file is added to the repo.
 
 To use this repo
 ----------------
