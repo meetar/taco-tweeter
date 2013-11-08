@@ -6,7 +6,7 @@ A WebHook for [Tacofancy](http://github.com/sinker/tacofancy/) – this tweets t
 To use this repo
 ----------------
 
-1. Host the .cgi file of your choice on a public server. Make sure it has the executable flags set: (chmod filename 755)
+1. Host one of the included .cgi files on a public server. Make sure it has the executable flags set: (chmod filename 755)
 2. Set up a Twitter app at https://dev.twitter.com/apps and link it to the twitter account of your choice. Make sure the application type is "Read and write", then update the settings and make a note of the OAuth credentials under the "OAuth tool" tab.
 3. Add the OAuth credentials to the .cgi.
 3. Add the URL of the .cgi file as a WebHook URL in your github repo's settings: https://github.com/[username]/[reponame]/settings/hooks
